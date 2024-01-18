@@ -7,6 +7,10 @@
   transition: transform 0.3s ease-in-out; /* Added ease-in-out for smoother transition */
 }
 
-.close-button:hover {
+ .close-button:hover {
   transform: rotate(90deg);
 }
+
+
+
+
